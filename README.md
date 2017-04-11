@@ -7,7 +7,7 @@ $ pip install redis requests lxml elasticsearch
 ```
 >如果模块没有也会报错，请跟进错误进行安装。
 
-2)、在 `main.py` 文件里会附带 HTTP/HTTPS PROXY 变量，如果不需要请修改 `modules/RequestMethods.py` 文件的
+2)、在 `main.py` 文件里会附带 HTTP/HTTPS PROXY 变量，如果不需要请修改 `modules/RequestMethods.py` 文件的,并注释 `main.py` 文件的 HTTP/HTTPS 变量:
 ```
 source = session.get(url, headers=header, cookies=cookie, proxies=proxies).content
 ```
