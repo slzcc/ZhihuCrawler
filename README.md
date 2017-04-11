@@ -44,4 +44,4 @@ $ python main.py &
 
 7)、如果出现 502 等错误，有可能被 “知乎网” 屏蔽了 IP 地址，请更换代理进行尝试。
 8)、图片展示
-![Kibana set up-w1024][https://github.com/slzcc/ZhihuCrawler/template/zhihu-kabana.png]
+![Kibana set up-w1024][https://github.com/slzcc/ZhihuCrawler/template/zhihu-kibana.png]
