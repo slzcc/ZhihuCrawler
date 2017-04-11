@@ -2,7 +2,7 @@
 >使用说明: 
 1)、内部使用了不少第三方模块请按照下面模块列表进行安装
 ```
-$ pip install redis threading requests lxml elasticsearch
+$ pip install redis requests lxml elasticsearch
 ```
 >如果模块没有也会报错，请跟进错误进行安装。
 
