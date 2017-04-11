@@ -43,3 +43,5 @@ $ python main.py &
 >注意：如果更改了 `PeopleNum` 变量的值很大，请确保您的机器可以支撑，多线程是对每一个被迭代后使用的追随者再去迭代，这里是深度搜索的所以开设的线程也会达到上万的级别。
 
 7)、如果出现 502 等错误，有可能被 “知乎网” 屏蔽了 IP 地址，请更换代理进行尝试。
+8)、图片展示
+![Kibana set up-w1024][https://github.com/slzcc/ZhihuCrawler/template/zhihu-kabana.png]
